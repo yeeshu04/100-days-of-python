@@ -19,7 +19,7 @@
 
 This repo documents my daily progress through a 100-day Python challenge — one project per day, covering everything from core fundamentals to automation, game development, web development, and data science. Every folder is a snapshot of what I learned and built that day.
 
-> 💡 **Why 100 days?** Consistency beats intensity. Small daily progress compounds into real skill — and a portfolio you can actually show off.
+> 💡 **Why 100 days?** Consistency beats intensity. Small daily progress compounds into real skill.
 
 ---
 
@@ -52,7 +52,7 @@ This repo documents my daily progress through a 100-day Python challenge — one
 │ ├── main.py
 │ └── README.md
 ├── ...
-└── README.md ← you are here
+└── README.md 
 
 
 Each day's folder contains the project code plus a short README noting what was built and what was learned.
