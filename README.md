@@ -9,7 +9,7 @@
 
 *Following Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp"*
 
-**Language:** Python 3 &nbsp;|&nbsp; **Progress:** Day 1 / 100 &nbsp;|&nbsp; **Status:** 🚧 In Progress
+**Language:** Python 3 &nbsp;|&nbsp;  &nbsp;|&nbsp; **Status:** 🚧 In Progress
 
 </div>
 
