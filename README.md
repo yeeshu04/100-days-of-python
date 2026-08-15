@@ -44,15 +44,10 @@ This repo documents my daily progress through a 100-day Python challenge — one
 
 ## 📂 Repository Structure
 
-100-days-of-python/
-├── day-01-project-name/
-│ ├── main.py
-│ └── README.md
-├── day-02-project-name/
-│ ├── main.py
-│ └── README.md
-├── ...
-└── README.md 
+- **day-01-project-name/** — main.py, README.md
+- **day-02-project-name/** — main.py, README.md
+- *(one folder per day)*
+- **README.md** ← you are here
 
 
 Each day's folder contains the project code plus a short README noting what was built and what was learned.
